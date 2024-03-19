@@ -5,3 +5,24 @@ Diabetes prediction using machine learning means using computer programs to gues
 These programs look at different things like your health history and lifestyle to make their guess. They learn from lots of examples of people with and without diabetes to make better guesses. For example, they might look at how much sugar someone eats or if they exercise regularly. By doing this, they can give early warnings to people who might be at risk of getting diabetes so they can take better care of themselves.
 
 Diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a prolonged period. Symptoms of high blood sugar include frequent urination, increased thirst, and increased hunger. If left untreated, diabetes can cause many complications. Acute complications can include diabetic ketoacidosis, hyperosmolar hyperglycemic state, or death. Serious long-term complications include cardiovascular disease, stroke, chronic kidney disease, foot ulcers, and damage to the eyes.
+
+# Objective
+We will try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
+
+# Details about the dataset:
+The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+. Pregnancies: Number of times pregnant
+. Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+. BloodPressure: Diastolic blood pressure (mm Hg)
+. SkinThickness: Triceps skin fold thickness (mm)
+. Insulin: 2-Hour serum insulin (mu U/ml)
+. BMI: Body mass index (weight in kg/(height in m)^2)
+. DiabetesPedigreeFunction: Diabetes pedigree function
+. Age: Age (years)
+. Outcome: Class variable (0 or 1)
+. Number of Observation Units: 768
+
+Variable Number: 9
+
+Result; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
