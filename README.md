@@ -12,17 +12,17 @@ We will try to build a machine learning model to accurately predict whether or n
 # Details about the dataset:
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
-. Pregnancies: Number of times pregnant
-. Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-. BloodPressure: Diastolic blood pressure (mm Hg)
-. SkinThickness: Triceps skin fold thickness (mm)
-. Insulin: 2-Hour serum insulin (mu U/ml)
-. BMI: Body mass index (weight in kg/(height in m)^2)
-. DiabetesPedigreeFunction: Diabetes pedigree function
-. Age: Age (years)
-. Outcome: Class variable (0 or 1)
-. Number of Observation Units: 768
+. Pregnancies: Number of times pregnant.<br>
+. Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test.<br>
+. BloodPressure: Diastolic blood pressure (mm Hg).<br>
+. SkinThickness: Triceps skin fold thickness (mm).<br>
+. Insulin: 2-Hour serum insulin (mu U/ml).<br>
+. BMI: Body mass index (weight in kg/(height in m)^2).<br>
+. DiabetesPedigreeFunction: Diabetes pedigree function.<br>
+. Age: Age (years).<br>
+. Outcome: Class variable (0 or 1).<br>
+. Number of Observation Units: 768.<br>
 
-Variable Number: 9
+Variable Number: 9  <br> 
 
 Result; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
