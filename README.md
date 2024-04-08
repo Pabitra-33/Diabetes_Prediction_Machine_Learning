@@ -15,7 +15,7 @@ We will try to build a machine learning model to accurately predict whether or n
 # Details about the dataset:
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
-. Pregnancies: Number of times pregnant.<br>
+. Pregnancies: Number of times pregnant.<br> 
 . Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test.<br>
 . BloodPressure: Diastolic blood pressure (mm Hg).<br>
 . SkinThickness: Triceps skin fold thickness (mm).<br>
