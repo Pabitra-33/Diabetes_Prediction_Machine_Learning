@@ -27,4 +27,4 @@ The datasets consists of several medical predictor variables and one target vari
 
 Variable Number: 9  <br> 
 
-Result; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
+Result: The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
