@@ -2,6 +2,7 @@
 
 ![Alt text](https://editor.analyticsvidhya.com/uploads/30738medtec-futuristic-650.jpg)
 
+# Introduction 
 Diabetes prediction using machine learning refers as we use the computer programs/algorithms to guess if someone might get diabetes or not.<br>
 These programs look at different things like your health history and lifestyle to make their guess. They learn from lots of examples of people with and without diabetes to make better guesses. For example, they might look at how much sugar someone eats or if they exercise regularly. By doing this, they can give early warnings to people who might be at risk of getting diabetes so they can take better care of themselves.
 
